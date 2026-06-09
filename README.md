@@ -1,17 +1,14 @@
-<h2 align="center">Hi 👋! I'm Cheng Chak Yuen, a Computer Science Student from Hong Kong</h2>
-<div style="display: flex; justify-content: space-between; max-width: 800px; margin: 20px auto;">
-  <div style="flex: 1; margin-right: 20px;">
-    <h3 align="center">Most Used Languages</h3>
-    <div align="center">
-      <img src="https://github-profile-summary-cards-opal.vercel.app/api/cards/most-commit-language?username=Anderson-ops-oss&theme=tokyonight" height="150" alt="languages graph" />
-    </div>
-  </div>
-  <div style="flex: 1;">
-    <h3 align="center">About Me</h3>
-    <p align="center">
-      Currently, I'm diving into <strong>Artificial Intelligence</strong> and <strong>Cybersecurity</strong>, exploring how technology shapes the future.
-    </p>
-  </div>
+<h2 align="center">Hi 👋! I'm Anderson, a Computer Science Student from Hong Kong</h2>
+<h3 align="center">About Me</h3>
+<p align="center">
+  I'm a Computer Science student focused on <strong>Artificial Intelligence</strong> and <strong>backend development</strong>.
+  I enjoy building practical web applications, learning how systems work under the hood, and turning new technical ideas into working projects.
+</p>
+
+<h3 align="center">GitHub Profile Summary</h3>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anderson-ops-oss&theme=tokyonight" width="100%" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anderson-ops-oss&theme=tokyonight" width="49%" alt="Most commit language" />
 </div>
 
 <h3 align="center">Languages & Technologies</h3>
@@ -21,6 +18,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="10" />
@@ -41,9 +42,15 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
   <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
 </div>
 
 <div align="center" style="margin: 20px 0;">
